@@ -1,0 +1,12 @@
+C:\Users\fabin\source\repos\Livros\Livros\bin\Debug\Livros.exe.config
+C:\Users\fabin\source\repos\Livros\Livros\bin\Debug\Livros.exe
+C:\Users\fabin\source\repos\Livros\Livros\bin\Debug\Livros.pdb
+C:\Users\fabin\source\repos\Livros\Livros\obj\Debug\Livros.csproj.AssemblyReference.cache
+C:\Users\fabin\source\repos\Livros\Livros\obj\Debug\Livros.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabin\source\repos\Livros\Livros\obj\Debug\Livros.Form1.resources
+C:\Users\fabin\source\repos\Livros\Livros\obj\Debug\Livros.Form2.resources
+C:\Users\fabin\source\repos\Livros\Livros\obj\Debug\Livros.Properties.Resources.resources
+C:\Users\fabin\source\repos\Livros\Livros\obj\Debug\Livros.csproj.GenerateResource.cache
+C:\Users\fabin\source\repos\Livros\Livros\obj\Debug\Livros.csproj.CoreCompileInputs.cache
+C:\Users\fabin\source\repos\Livros\Livros\obj\Debug\Livros.exe
+C:\Users\fabin\source\repos\Livros\Livros\obj\Debug\Livros.pdb

@@ -1,0 +1,11 @@
+C:\Users\fabin\source\repos\Delta\Delta\obj\Debug\Delta.csproj.AssemblyReference.cache
+C:\Users\fabin\source\repos\Delta\Delta\obj\Debug\Delta.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabin\source\repos\Delta\Delta\obj\Debug\Delta.Form1.resources
+C:\Users\fabin\source\repos\Delta\Delta\obj\Debug\Delta.Properties.Resources.resources
+C:\Users\fabin\source\repos\Delta\Delta\obj\Debug\Delta.csproj.GenerateResource.cache
+C:\Users\fabin\source\repos\Delta\Delta\obj\Debug\Delta.csproj.CoreCompileInputs.cache
+C:\Users\fabin\source\repos\Delta\Delta\bin\Debug\Delta.exe.config
+C:\Users\fabin\source\repos\Delta\Delta\bin\Debug\Delta.exe
+C:\Users\fabin\source\repos\Delta\Delta\bin\Debug\Delta.pdb
+C:\Users\fabin\source\repos\Delta\Delta\obj\Debug\Delta.exe
+C:\Users\fabin\source\repos\Delta\Delta\obj\Debug\Delta.pdb

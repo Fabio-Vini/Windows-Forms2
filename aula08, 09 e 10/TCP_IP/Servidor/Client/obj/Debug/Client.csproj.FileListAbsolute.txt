@@ -1,0 +1,13 @@
+C:\Users\fabin\source\repos\TCP_IP\Servidor\Client\bin\Debug\Client.exe.config
+C:\Users\fabin\source\repos\TCP_IP\Servidor\Client\bin\Debug\Client.exe
+C:\Users\fabin\source\repos\TCP_IP\Servidor\Client\bin\Debug\Client.pdb
+C:\Users\fabin\source\repos\TCP_IP\Servidor\Client\bin\Debug\SimpleTCP.dll
+C:\Users\fabin\source\repos\TCP_IP\Servidor\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\fabin\source\repos\TCP_IP\Servidor\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabin\source\repos\TCP_IP\Servidor\Client\obj\Debug\Client.Form1.resources
+C:\Users\fabin\source\repos\TCP_IP\Servidor\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\fabin\source\repos\TCP_IP\Servidor\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\fabin\source\repos\TCP_IP\Servidor\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\fabin\source\repos\TCP_IP\Servidor\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\fabin\source\repos\TCP_IP\Servidor\Client\obj\Debug\Client.exe
+C:\Users\fabin\source\repos\TCP_IP\Servidor\Client\obj\Debug\Client.pdb

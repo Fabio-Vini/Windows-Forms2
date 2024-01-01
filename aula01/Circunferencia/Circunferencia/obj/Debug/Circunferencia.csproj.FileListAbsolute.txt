@@ -1,0 +1,11 @@
+C:\Users\fabin\source\repos\Circunferencia\Circunferencia\bin\Debug\Circunferencia.exe.config
+C:\Users\fabin\source\repos\Circunferencia\Circunferencia\bin\Debug\Circunferencia.exe
+C:\Users\fabin\source\repos\Circunferencia\Circunferencia\bin\Debug\Circunferencia.pdb
+C:\Users\fabin\source\repos\Circunferencia\Circunferencia\obj\Debug\Circunferencia.csproj.AssemblyReference.cache
+C:\Users\fabin\source\repos\Circunferencia\Circunferencia\obj\Debug\Circunferencia.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabin\source\repos\Circunferencia\Circunferencia\obj\Debug\Circunferencia.Form1.resources
+C:\Users\fabin\source\repos\Circunferencia\Circunferencia\obj\Debug\Circunferencia.Properties.Resources.resources
+C:\Users\fabin\source\repos\Circunferencia\Circunferencia\obj\Debug\Circunferencia.csproj.GenerateResource.cache
+C:\Users\fabin\source\repos\Circunferencia\Circunferencia\obj\Debug\Circunferencia.csproj.CoreCompileInputs.cache
+C:\Users\fabin\source\repos\Circunferencia\Circunferencia\obj\Debug\Circunferencia.exe
+C:\Users\fabin\source\repos\Circunferencia\Circunferencia\obj\Debug\Circunferencia.pdb
